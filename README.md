@@ -40,7 +40,7 @@ Profit Trends:
 Monthly profit fluctuates — highest in December and January, lowest in June.
 
 Sub-Category Performance: Printers and Bookcases are the most profitable sub-categories.
-____________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 
 📈 Insights
 
@@ -53,7 +53,7 @@ COD is still the dominant payment mode, but UPI is growing.
 Profit shows seasonal spikes in December and January, suggesting holiday-driven sales.
 
 Printers and Bookcases generate the most profit, highlighting product categories to focus on.
-_____________________________________________________________________________________________________________________________________________________________________________________-
+___________________________________________________________________________________________________________________________________________________________________
 💡 Future Improvements
 
 Add year-over-year comparison for revenue and profit.
